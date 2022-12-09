@@ -1,0 +1,24 @@
+LOAD EARTHQUAKE.CSV INTO SQLITE DB NAME AS earthquake.db
+
+				LINK:https://github.com/anishchapagain/PythonNotes/blob/master/requests_lxml_pandas/earthquake.csv
+
+
+MULTIPLICATION TABLE OF 3,6,9 FROM 1 TO 100..
+				[dictionary/list]
+
+				yesari aauna paryo[3,6,9,12,15,18,...]
+
+
+EARTHQUAKE.CSV ====> DO SOME KIND OF ANALYSIS....
+
+				(extra ni halne...naya idea nikalne...BAR CHART kuneilai kuneilai PIE CHART)
+				
+
+				[pandas and jupiter notebook]
+
+DISPLAY AND PLOT EVEN NOS BETWEEN 2 AND 200..
+				[jupiter notebook]
+
+				[plot aafei choose garera garne]
+
+
